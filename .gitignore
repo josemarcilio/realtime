@@ -1,0 +1,4 @@
+*.env
+volumes/influxdb/engine
+volumes/influxdb/*.sqlite
+volumes/influxdb/*.bolt

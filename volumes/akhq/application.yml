@@ -1,0 +1,5 @@
+akhq:
+  connections:
+    docker-kafka:
+      properties:
+        bootstrap.servers: "broker:29092"
